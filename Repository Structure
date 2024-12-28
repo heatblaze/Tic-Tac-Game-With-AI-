@@ -1,0 +1,10 @@
+TicTacToe-AI/
+├── src/                          # Java source code files
+│   └── TicTacToeGUI.java         # Main game class
+├── screenshots/                  # Screenshots of the game
+│   ├── game_start.png
+│   ├── game_in_progress.png
+│   ├── ai_vs_player.png
+│   ├── game_tie.png
+│   └── player_x_wins.png
+├── README.md                     # Documentation
